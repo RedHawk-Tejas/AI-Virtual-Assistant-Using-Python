@@ -1,6 +1,8 @@
 # AI-Virtual-Assistant-Using-Python
 It is an example of weak AI which can only perform user designed/ defined quest.
 
+{ And I am still working on it to make it effective and more automated}
+
 It is build by using Python language and installing required packages.
 *To run this program it's necessary to install following packages in your system using pip command.
 
